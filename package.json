@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "ganesh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "favicon": "0.0.2"
+  }
 }
